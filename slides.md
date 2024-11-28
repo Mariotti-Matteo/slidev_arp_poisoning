@@ -3,7 +3,7 @@ theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 #background: https://source.unsplash.com/collection/94734566/1920x1080
-background: death01.jpeg
+background: https://source.unsplash.com/collection/94734566/1920x1080
 # apply any windi css classes to the current slide
 class: "text-center"
 # https://sli.dev/custom/highlighters.html
@@ -53,9 +53,17 @@ ARP Spoofing o ARP Poisoning
 
 # Il protocollo ARP
 
-- Il protocollo ARP è utilizzato per mappare gli indirizzi IP (Internet Protocol) agli indirizzi MAC (Media Access Control) nei LAN (Local Area Network). Quando un dispositivo desidera comunicare con un altro dispositivo nella stessa rete locale, utilizza l'ARP per scoprire l'indirizzo MAC corrispondente all'indirizzo IP di destinazione.
+- Il protocollo ARP(**Address Resolution Protocol**) è utilizzato per mappare gli indirizzi IP (Internet Protocol) agli indirizzi MAC (Media Access Control) nei LAN (Local Area Network). Quando un dispositivo desidera comunicare con un altro dispositivo nella stessa rete locale, utilizza l'ARP per scoprire l'indirizzo MAC corrispondente all'indirizzo IP di destinazione.
 
-Scopri di più su: [ARP](https://it.wikipedia.org/wiki/Address_Resolution_Protocol)
+<br><br><br><br><br>
+
+Documentazione in più:
+
+[Address Resolution Protocol 1](https://it.wikipedia.org/wiki/Address_Resolution_Protocol)
+
+[Address Resolution Protocol 2](http://lia.deis.unibo.it/Courses/AmmSistemi1819/ARP-Forwarding-Walter-Cerroni.pdf)
+
+[Address Resolution Protocol 3](http://wpage.unina.it/rcanonic/didattica/rc/lucidi_2017/RC1-2018-L08-a.pdf)
 
 <br />  
 
@@ -70,7 +78,7 @@ Scopri di più su: [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
 
 # Come Funziona l'ARP Poisoning
 
-Proteggiamo la rete da attacchi di livello 2
+Le varie fasi dell'ARP Poisoning
 
 - Fase di Scoperta
 - Fase di Risposta
@@ -83,7 +91,7 @@ Proteggiamo la rete da attacchi di livello 2
 
 # Fase di Scoperta
 
-Proteggiamo la rete da attacchi di livello 2
+La fase della scoperta
 
 - La funzionalità di **port security** si applica a <br />specifiche interfacce
 - In pratica per ogni interfaccia si specifica uno o più <br />indirizzi MAC sorgente che sono abilitati a <br />transitare per la porta in questione.
