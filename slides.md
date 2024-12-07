@@ -230,7 +230,7 @@ Come eseguire un man-in-the-middle (**mitm**)
 
 [Configuriamo uno switch Cisco](https://reti.mancusoa.it/3/U6_switch_config/#/1)
 
-<img src="/media/switch_conf.jpg" class="basso" />
+<img src="/media/switch_conf.png" class="basso" />
 
 
 --- #slide 1
