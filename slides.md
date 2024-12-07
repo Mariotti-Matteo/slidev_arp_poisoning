@@ -190,9 +190,9 @@ Alcuni metodi per proteggersi
 
 --- #slide 1
 
-# L'attacco Man-in-the-middle 
+# Esercitazione #01
 
-Come eseguire un man-in-the-middle (**mitm**) 
+Come eseguire un man-in-the-middle (**mitm**)  per intercettare un ping
 
 - Per questa esercitazione ci serviranno:
   - 1 Switch
@@ -212,9 +212,9 @@ Link al sito: [Ettercap](https://www.ettercap-project.org/)
 
 --- #slide 1
 
-# L'attacco Man-in-the-middle
+# Esercitazione #01
 
-Come eseguire un man-in-the-middle (**mitm**) 
+Come eseguire un man-in-the-middle (**mitm**)  per intercettare un ping
 
 **1° Step**:
 - Accendiamo i PC
@@ -235,10 +235,10 @@ Come eseguire un man-in-the-middle (**mitm**)
 
 --- #slide 1
 
-# L'attacco Man-in-the-middle
+# Esercitazione #01
 
 
-Come eseguire un man-in-the-middle (**mitm**) 
+Come eseguire un man-in-the-middle (**mitm**) per intercettare un ping
 
 **3° Step**:
   - Assegnare un gateway agli host:
@@ -256,20 +256,20 @@ Come eseguire un man-in-the-middle (**mitm**)
 
 --- #slide 1
 
-# L'attacco Man-in-the-middle
+# Esercitazione #01
 
-Come eseguire un man-in-the-middle (**mitm**) 
+Come eseguire un man-in-the-middle (**mitm**)  per intercettare un ping
 
 **6° Step:**
 
-- Set up di Ettercap
+- Set up di Ettercapx 
 
 
 --- #slide 1
 
-# L'attacco Man-in-the-middle
+# Esercitazione #01
 
-Come eseguire un man-in-the-middle (**mitm**) 
+Come eseguire un man-in-the-middle (**mitm**)  per intercettare un ping
 
 
  
